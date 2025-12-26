@@ -86,8 +86,6 @@ Data is modeled for analytics, dashboards, and decision making.
 - MoM / QoQ growth
 - Rolling averages
 - Cumulative KPIs
-- Pareto (80/20)
-- Percentile metrics
 
 ### 🏁 Output
 - Final curated **Gold Delta Tables**
