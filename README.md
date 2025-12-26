@@ -1,5 +1,6 @@
 # databricks_ETE
 
+<img width="2816" height="1536" alt="IMG_3832" src="https://github.com/user-attachments/assets/6db7b758-b503-459a-be99-2c0c8462e083" />
 
 
 ## ⭐ Project Architecture — Bronze → Silver → Gold (Lakehouse Style)
